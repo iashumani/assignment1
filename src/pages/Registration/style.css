@@ -1,0 +1,32 @@
+.dropzone {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: #eeeeee;
+    border-style: dashed;
+    background-color: #fafafa;
+    color: #bdbdbd;
+    outline: none;
+    transition: border .24s ease-in-out;
+}
+fieldset{
+    border-color: rgb(192,192,192);
+    border-width: 1px;
+    border-radius: 5px;
+}
+.theme-span-text{
+    font-weight:600px;
+    color:#635BFF;
+}
+.vl {
+    border-left: 2px solid #9995FF;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: 233px;
+    top: 260px;
+  }
